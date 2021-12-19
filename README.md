@@ -1,2 +1,2 @@
 # Data Pipeline Project
-In this project I look at what variables effect the gross revenue from movies and build some visualization also.
+In this project I took movies data of 20 years and built a data pipeline using python libraries and perform data wrangling.
